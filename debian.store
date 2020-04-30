@@ -1,1 +1,1 @@
-{"trim": "", "base": "29dfdcd", "trimbase": "", "parent": "debian/eloquent/py_trees_ros_interfaces", "previous": "cbbb352"}
+{"base": "8cab4ab", "parent": "debian/verystable/py_trees_ros_interfaces", "previous": "95c1f12", "trim": "", "trimbase": ""}
